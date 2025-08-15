@@ -1,0 +1,202 @@
+{
+  "bread": [
+    {
+      "name": "Bagel",
+      "price": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "image": "Bagel.jpg"
+    },
+    {
+      "name": "Baguette",
+      "price": 22,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "image": "Bread-Image"
+    },
+    {
+      "name": "Banana Bread",
+      "price": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "image": "Bread-Image"
+    },
+    {
+      "name": "Cheese Bread",
+      "price": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "image": "Bread-Image"
+    },
+    {
+      "name": "Brioche",
+      "price": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "image": "Bread-Image"
+    },
+    {
+      "name": "Rye Bread",
+      "price": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "image": "Bread-Image"
+    },
+    {
+      "name": "Bread roll",
+      "price": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "image": "Bread-Image"
+    },
+    {
+      "name": "Soda Bread",
+      "price": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "image": "Bread-Image"
+    }
+  ],
+  "cake": [
+    {
+      "name": "Chocolate Cake",
+      "price": 22,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "image": "Cake-Image"
+    },
+    {
+      "name": "Carrot Cake",
+      "price": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "image": "Cake-Image"
+    },
+    {
+      "name": "Red Velvet Cake",
+      "price": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "image": "Cake-Image"
+    },
+    {
+      "name": "Strawberry Cake",
+      "price": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "image": "Cake-Image"
+    },
+    {
+      "name": "Chiffon Cake",
+      "price": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "image": "Cake-Image"
+    },
+    {
+      "name": "Cheese Cake",
+      "price": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "image": "Cake-Image"
+    },
+    {
+      "name": "Fruit Cake",
+      "price": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "image": "Cake-Image"
+    },
+    {
+      "name": "Cupcake",
+      "price": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "image": "Cake-Image"
+    }
+  ],
+  "pastry": [
+    {
+      "name": "Croissant",
+      "price": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "image": "Pastry-Image"
+    },
+    {
+      "name": "Cherry Pie",
+      "price": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "image": "Pastry-Image"
+    },
+    {
+      "name": "Macaron",
+      "price": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "image": "Pastry-Image"
+    },
+    {
+      "name": "Pecan Pie",
+      "price": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "image": "Pastry-Image"
+    },
+    {
+      "name": "Pretzels",
+      "price": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "image": "Pastry-Image"
+    },
+    {
+      "name": "Baklava",
+      "price": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "image": "Pastry-Image"
+    },
+    {
+      "name": "Eclair",
+      "price": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "image": "Pastry-Image"
+    },
+    {
+      "name": "Puff Pastry",
+      "price": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "image": "Pastry-Image"
+    }
+  ],
+  "beverages": [
+    {
+      "name": "Americano",
+      "price": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "image": "Beverage-Image"
+    },
+    {
+      "name": "Espresso",
+      "price": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "image": "Beverage-Image"
+    },
+    {
+      "name": "Cappucino",
+      "price": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "image": "Beverage-Image"
+    },
+    {
+      "name": "Latte",
+      "price": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "image": "Beverage-Image"
+    },
+    {
+      "name": "Black Coffee",
+      "price": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "image": "Beverage-Image"
+    },
+    {
+      "name": "Mocha",
+      "price": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "image": "Beverage-Image"
+    },
+    {
+      "name": "Café au Lait",
+      "price": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "image": "Beverage-Image"
+    },
+    {
+      "name": "Macchiato",
+      "price": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "image": "Beverage-Image"
+    }
+  ]
+}
