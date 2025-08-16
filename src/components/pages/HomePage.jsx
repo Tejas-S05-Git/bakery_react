@@ -30,7 +30,7 @@ const HomePage = () => {
       <Testimonials />
       <OurBlog />
       <Partner />
-      <Footer />
+      
 
 
     </>
